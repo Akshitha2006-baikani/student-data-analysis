@@ -1,17 +1,29 @@
-# Student Data Analysis 📊
+# 📊 Student Data Analysis
 
 This project analyzes student performance using Python.
 
-## Features
-- Calculates average marks
-- Finds topper and lowest performer
-- Subject-wise analysis
-- Graph visualization
-
-## Tools Used
+## 🔧 Tools Used
 - Python
 - Pandas
 - Matplotlib
 
-## Output
-Includes graph showing subject-wise performance
+## 📈 Features
+- Calculates average marks
+- Identifies topper and lowest performer
+- Subject-wise analysis
+- Ranking of students
+- Data visualization using graphs
+
+## 📊 Output
+
+### Subject-wise Average Graph
+![Graph](output.png)
+
+## 📌 Insights
+- Kiran is the top performer with highest average marks
+- English has highest average among subjects
+- Some students need improvement in Science
+
+## 🚀 Future Improvements
+- Add more dataset
+- Apply machine learning model
